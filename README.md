@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img style="background: white;width: 30%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+</h1>
+
+
 # Reprograma | Bootcamp de Análise de Dados
 ## 🚀 Projeto Final
 Turma Online on29 | 2024 | Professora Daviny Letícia
